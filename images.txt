@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 eclipse-temurin:8-jdk-alpine
 openjdk:8-jdk-alpine
+openjdk:8-jdk-slim
