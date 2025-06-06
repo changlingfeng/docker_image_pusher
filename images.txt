@@ -8,3 +8,4 @@ eclipse-temurin:8-jdk-alpine
 openjdk:8-jdk-alpine
 alpine:3.18
 adoptopenjdk/openjdk8:alpine
+openjdk:8-jdk-slim
